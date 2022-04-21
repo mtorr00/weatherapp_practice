@@ -9,7 +9,6 @@ import javax.persistence.Id;
 
 import org.hibernate.annotations.CreationTimestamp;
 
-
 //will hold data from html form
 @Entity
 public class Request {
